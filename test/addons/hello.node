@@ -1,0 +1,8 @@
+{
+  "targets": [
+    {
+      "target_name": "hello", //译者：addon插件名，注意这里的名字必需和上面NODE_MODULE中的一致
+      "sources": [ "hello.cc" ]  //译者：这是需要编译的源文件
+    }
+  ]
+}

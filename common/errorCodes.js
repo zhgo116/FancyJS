@@ -1,0 +1,54 @@
+
+/*
+ * 901----999
+ */
+module.exports={
+    ServerStartException:{
+        code:999,
+        msg:"服务启动异常"
+    },
+    DBInfoIsNull:{
+        code:901,
+        msg:"数据连接信息为空或者不完整"
+    },
+    OK:{
+        code:200,
+        msg:"成功"
+    },
+    Created:{
+        code:201,
+        msg:"已创建"
+    },
+    NoData:{
+        code:204,
+        msg:"查询结果为空"
+    },
+    NotModified:{
+        code:304,
+        msg:"未修改"
+    },
+    BadRequest:{
+        code:400,
+        msg:"错误的请求"
+    },
+    Unauthorized:{
+        code:401,
+        msg:"未授权的访问"
+    },
+    Forbidden:{
+        code:403,
+        msg:"禁止访问"
+    },
+    NotFound:{
+        code:404,
+        msg:"未找到资源"
+    },
+    SQLError:{
+        code:503,
+        msg:"SQL异常"
+    },
+    ArgumentError:{
+        code:666,
+        msg:'参数错误'
+    }
+};

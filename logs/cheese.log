@@ -1,0 +1,226 @@
+[2017-01-03 10:11:42.429] [ERROR] cheese - connect to mongodb://127.0.0.1:27017/doracms error:  failed to connect to server [127.0.0.1:27017] on first connect
+[2017-01-03 14:46:18.660] [DEBUG] cheese - undefined 'resources.undefined {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} '
+[2017-01-03 14:47:00.137] [DEBUG] cheese - undefined 'resources.undefined {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} '
+[2017-01-03 14:48:15.889] [DEBUG] cheese - undefined 'resources.undefined {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} '
+[2017-01-03 14:48:34.085] [DEBUG] cheese - undefined 'resources.undefined {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} '
+[2017-01-03 14:49:31.066] [DEBUG] cheese - undefined 'resources.undefined {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} '
+[2017-01-03 14:49:55.544] [DEBUG] cheese - undefined 'resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} '
+[2017-01-03 14:51:08.483] [DEBUG] cheese - undefined 'resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 2ms'
+[2017-01-03 14:51:40.130] [DEBUG] cheese - undefined 'resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 1ms'
+[2017-01-03 14:52:09.732] [DEBUG] cheese - undefined 'resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 2ms'
+[2017-01-03 14:53:07.857] [DEBUG] cheese - undefined ''
+[2017-01-03 14:57:18.300] [DEBUG] cheese - undefined 'resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} '
+[2017-01-03 15:05:17.541] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:31:42.096] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:31:42.107] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:33:18.474] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:33:18.481] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:33:36.897] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:33:39.431] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:33:39.437] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:33:44.837] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:33:44.857] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:33:45.573] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:33:45.577] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:33:47.234] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:33:47.240] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:34:00.995] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:34:01.000] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:34:33.028] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:34:33.050] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:34:53.407] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:35:05.227] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:36:38.550] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:36:38.554] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:36:41.574] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:42:39.478] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:42:46.499] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:42:48.696] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:42:49.559] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:42:49.570] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:42:51.268] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:42:51.277] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:42:52.255] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:42:52.265] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:42:53.823] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:42:56.191] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:43:51.054] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:43:51.071] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:43:58.145] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:44:02.907] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:44:05.771] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:44:05.782] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:44:11.505] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:44:11.518] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:44:15.534] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:44:15.547] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:44:18.597] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:44:18.610] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:44:21.878] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:44:21.886] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:44:42.231] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:44:42.240] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:44:57.736] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:44:57.741] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:45:19.312] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:45:19.331] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:45:31.359] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:45:31.366] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:45:31.371] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:45:31.375] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:45:31.378] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:45:31.384] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:45:31.397] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:45:42.567] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:45:47.090] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:45:47.099] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:46:01.167] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:46:01.175] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:46:12.913] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:46:12.925] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:46:42.747] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:46:42.766] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:46:42.774] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:46:46.484] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:46:51.529] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:46:51.545] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:47:03.575] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:47:11.873] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:47:11.882] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:47:31.890] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:47:50.951] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-01-05 14:47:50.962] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:47:50.966] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:48:14.276] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:48:15.409] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:48:16.189] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:48:16.722] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:48:17.263] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:48:17.757] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:48:18.292] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:48:18.722] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:48:19.140] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:48:34.384] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:49:02.067] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:49:02.073] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:49:03.457] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:49:04.261] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:49:28.565] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:49:29.449] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:49:33.791] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:49:34.424] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:55:20.724] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:55:20.729] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:55:22.726] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:55:23.489] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:55:27.968] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:55:29.056] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:55:29.565] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:55:29.898] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:55:30.141] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:57:44.777] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:57:44.780] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:57:45.541] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:57:46.564] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:57:47.105] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:57:51.299] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:58:58.963] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 14:58:58.978] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 14:58:59.742] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:00.455] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:07.489] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:08.142] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:52.507] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:53.231] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:53.640] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:53.882] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:57.794] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:58.361] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 14:59:58.754] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:22.290] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 15:01:22.298] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 15:01:23.189] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:23.917] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:24.606] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:24.972] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:25.204] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:25.476] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:25.729] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:25.791] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:26.015] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:26.291] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:26.510] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:26.765] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:01:26.960] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:02:04.710] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:02:31.534] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 15:02:31.539] [DEBUG] cheese - Cache set users undefined
+[2017-01-05 15:02:33.708] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:02:38.402] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:02:42.024] [DEBUG] cheese - Cache get users undefined
+[2017-01-05 15:56:40.085] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-01-05 15:56:40.094] [DEBUG] cheese - Cache set users undefined
+[2017-02-28 20:08:20.288] [ERROR] cheese - connect to mongodb://127.0.0.1:27017/doracms error:  failed to connect to server [127.0.0.1:27017] on first connect
+[2017-08-21 15:46:09.043] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-08-21 15:49:31.674] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-08-21 15:50:32.429] [DEBUG] cheese - MONGO resources.find {"conditions":{},"options":{"fields":{}},"collectionName":"resources"} 
+[2017-08-21 15:50:53.596] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:51:21.895] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:04.889] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:05.882] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:06.095] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:06.270] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:06.405] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:12.714] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:25.259] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:25.875] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:26.043] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:26.177] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:38.315] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:38.939] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:39.160] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:39.340] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:42.359] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:44.512] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:52:47.120] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:53:05.062] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:53:05.499] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:53:05.743] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:53:05.926] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:53:06.108] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:55:58.798] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:56:44.034] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:58:26.620] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:58:56.228] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:58:56.238] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 15:59:49.051] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:07:26.470] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:08:56.653] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:08:57.151] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:11:01.008] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:12:40.868] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:12:47.051] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:12:47.536] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:12:47.701] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:12:47.870] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:12:47.989] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:13:11.693] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:13:22.673] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:13:26.935] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:13:48.885] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:15:14.619] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:15:21.762] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:15:34.544] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:15:36.094] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:16:05.686] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:16:21.224] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:21:13.219] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:21:14.098] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:21:21.015] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:22:17.467] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:22:32.110] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:23:54.352] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:24:55.083] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:25:08.978] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:25:20.788] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 
+[2017-08-21 16:28:10.701] [DEBUG] cheese - MONGO users.find {"conditions":{},"options":{"fields":{}},"collectionName":"users"} 

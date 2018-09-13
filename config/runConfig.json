@@ -1,0 +1,20 @@
+{
+  "port": 8081,
+  "loadServices": [
+    {
+      "name": "用户服务",
+      "path": "userControl.js"
+    },
+    {
+      "name": "测试服务",
+      "path": "testControl.js"
+    }
+  ],
+  "db":{
+    "ip":"127.0.0.1",
+    "port":27017,
+    "dbName":"zoomwayDevlop"
+  },
+  "docDbPath":"//Gisserver/j/map_2d/server.db",
+  "runModel":"testModel"
+}
